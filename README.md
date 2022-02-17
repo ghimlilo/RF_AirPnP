@@ -1,4 +1,4 @@
-# 27-1st-airPnP-backend
+# airPnP Project
 > airbnb(www.https://www.airbnb.co.kr/)는 숙박공유 비즈니스입니다.
 > airpnp는 숙소를 대여하는 것이 아닌 특정 재능을 가진 사람을 대여하는 것으로 프로젝트를 기획 하였습니다.
 
